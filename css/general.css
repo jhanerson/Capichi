@@ -1,0 +1,69 @@
+/* Estilos para la barra de navegación */
+.navbar {
+    background-color: #f8f9fa;
+    /* Cambia el color de fondo de la barra de navegación */
+}
+
+.navbar-brand {
+    font-size: 24px;
+    /* Cambia el tamaño de fuente del nombre del sitio */
+    font-weight: bold;
+    /* Hace que el nombre del sitio sea más audaz */
+}
+
+.navbar-nav .nav-link {
+    color: #333;
+    /* Cambia el color del texto de los enlaces en la barra de navegación */
+    margin-right: 15px;
+    /* Agrega un espacio entre los elementos de la barra de navegación */
+}
+
+/* Estilos para el botón de descarga */
+.btn-primary {
+    background-color: #007bff;
+    /* Cambia el color de fondo del botón */
+    border-color: #007bff;
+    /* Cambia el color del borde del botón */
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    /* Cambia el color de fondo del botón al pasar el mouse por encima */
+    border-color: #0056b3;
+    /* Cambia el color del borde del botón al pasar el mouse por encima */
+}
+
+/* Estilos para el encabezado (jumbotron) */
+.jumbotron {
+    background-image: url('../img/asests/cora.jpg');
+    /* Cambia la imagen de fondo del encabezado */
+    background-size: cover;
+    /* Hace que la imagen de fondo cubra todo el encabezado */
+    color: #fff;
+    /* Cambia el color del texto en el encabezado */
+    text-align: center;
+    /* Centra el texto en el encabezado */
+}
+
+.jumbotron h1 {
+    font-size: 48px;
+    /* Cambia el tamaño de fuente del título en el encabezado */
+}
+
+.jumbotron p {
+    font-size: 18px;
+    /* Cambia el tamaño de fuente del texto en el encabezado */
+}
+
+/* Estilos para la sección "features" */
+.features {
+    background-color: #fff;
+    /* Cambia el color de fondo de la sección */
+    padding: 50px 0;
+    /* Añade espacio alrededor del contenido de la sección */
+}
+
+.features h3 {
+    font-size: 24px;
+    /* Cambia el tamaño de fuente de los títulos en la sección */
+}
